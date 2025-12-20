@@ -27,6 +27,7 @@ A web-based **Financial Portfolio Management System** built using **Python (Djan
 ---
 
 ## 📂 Project Structure
+
 financial-portfolio-management-system/
 │
 ├── finance/                         # Main Django project configuration
@@ -131,5 +132,3 @@ RabbitMQ
 
 ## 👨‍💻 Author
 **Dev Patel**
-
-**Python & AI Enthusiast**
