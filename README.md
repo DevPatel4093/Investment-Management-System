@@ -29,38 +29,34 @@ A web-based **Financial Portfolio Management System** built using **Python (Djan
 ## 📂 Project Structure
 
 financial-portfolio-management-system/
-│
+
 ├── finance/                         # Main Django project configuration
-│   ├── __init__.py
-│   ├── settings.py                  # Project settings
-│   ├── urls.py                      # Root URL configurations
-│   ├── asgi.py                      # ASGI entry point
-│   ├── wsgi.py                      # WSGI entry point
-│   └── celery.py                    # Celery configuration
-│
+   ├── __init__.py
+   ├── settings.py                  # Project settings
+   ├── urls.py                      # Root URL configurations
+   ├── asgi.py                      # ASGI entry point
+   ├── wsgi.py                      # WSGI entry point
+   └── celery.py                    # Celery configuration
 ├── portfolio/                       # Portfolio management app
-│   ├── migrations/                  # Database migrations
-│   ├── management/
-│   │   └── commands/                # Custom Django commands
-│   ├── templates/                   # HTML templates
-│   ├── admin/                       # Admin-related customizations
-│   ├── templatetags/                # Custom template tags
-│   ├── tests/                       # Test cases
-│   ├── __init__.py
-│   ├── admin.py                     # Django admin configuration
-│   ├── apps.py                      # App configuration
-│   ├── constants.py                 # Application constants
-│   ├── forms.py                     # Django forms
-│   ├── models.py                    # Database models
-│   ├── selectors.py                 # Query logic / selectors
-│   ├── services.py                  # Business logic services
-│   ├── signals.py                   # Django signals
-│   ├── tasks.py                     # Celery background tasks
-│   ├── views.py                     # Application views
-│   └── urls.py                      # App-level URL routing
-│
+   ├── migrations/                  # Database migrations
+   ├── management/
+   ├── templates/                   # HTML templates
+   ├── admin/                       # Admin-related customizations
+   ├── templatetags/                # Custom template tags
+   ├── tests/                       # Test cases
+   ├── __init__.py
+   ├── admin.py                     # Django admin configuration
+   ├── apps.py                      # App configuration
+   ├── constants.py                 # Application constants
+   ├── forms.py                     # Django forms
+   ├── models.py                    # Database models
+   ├── selectors.py                 # Query logic / selectors
+   ├── services.py                  # Business logic services
+   ├── signals.py                   # Django signals
+   ├── tasks.py                     # Celery background tasks
+   ├── views.py                     # Application views
+   └── urls.py                      # App-level URL routing
 ├── static/                          # Static files (CSS, JS, Images)
-│
 ├── .env                             # Environment variables
 ├── .gitignore                       # Git ignored files
 ├── app.json                         # Heroku app configuration
