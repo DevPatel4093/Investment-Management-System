@@ -30,14 +30,14 @@ A web-based **Financial Portfolio Management System** built using **Python (Djan
 
 financial-portfolio-management-system/
 
-├── finance/        
-
+├── finance/      
    ├── __init__.py
    ├── settings.py                  
    ├── urls.py                     
    ├── asgi.py                      
    ├── wsgi.py                      
-   └── celery.py                    
+   └── celery.py   
+   
 ├── portfolio/ 
 
    ├── migrations/                  
