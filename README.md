@@ -30,34 +30,8 @@ A web-based **Financial Portfolio Management System** built using **Python (Djan
 
 financial-portfolio-management-system/
 
-├── finance/      
-   ├── __init__.py
-   ├── settings.py                  
-   ├── urls.py                     
-   ├── asgi.py                      
-   ├── wsgi.py                      
-   └── celery.py   
-   
-├── portfolio/ 
-
-   ├── migrations/                  
-   ├── management/
-   ├── templates/                   
-   ├── admin/                       
-   ├── templatetags/                
-   ├── tests/                       
-   ├── __init__.py
-   ├── admin.py                     
-   ├── apps.py                      
-   ├── constants.py                 
-   ├── forms.py                     
-   ├── models.py                    
-   ├── selectors.py                 
-   ├── services.py                  
-   ├── signals.py                   
-   ├── tasks.py                     
-   ├── views.py                     
-   └── urls.py                      
+├── finance/   
+├── portfolio/                
 ├── static/                          
 ├── .env                             
 ├── .gitignore                       
