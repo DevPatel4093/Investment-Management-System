@@ -1,6 +1,6 @@
-# 📊 Financial Portfolio Management System
+# 📊 Investment Management System
 
-A web-based **Financial Portfolio Management System** built using **Python (Django)** that helps users manage and track their investment portfolios including stocks, REITs, ETFs, and other financial assets.
+A web-based **Investment Management System** built using **Python (Django)** that helps users manage and track their investment portfolios including stocks, REITs, ETFs, and other financial assets.
 
 ---
 
