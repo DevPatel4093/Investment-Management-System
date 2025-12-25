@@ -27,9 +27,8 @@ A web-based **Investment Management System** built using **Python (Django)** tha
 ---
 
 ## 📂 Project Structure
-
+```
 financial-portfolio-management-system/
-
 ├── finance/   
 ├── portfolio/                
 ├── static/                          
@@ -43,7 +42,7 @@ financial-portfolio-management-system/
 ├── Pipfile                         
 ├── Pipfile.lock                     
 └── README.md                        
-
+```
 
 ---
 
