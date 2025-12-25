@@ -28,7 +28,7 @@ A web-based **Investment Management System** built using **Python (Django)** tha
 
 ## 📂 Project Structure
 ```
-financial-portfolio-management-system/
+investment-management-system/
 ├── finance/   
 ├── portfolio/                
 ├── static/                          
